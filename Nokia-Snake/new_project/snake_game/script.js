@@ -90,7 +90,7 @@ function nextTick(){
         context.fillText("Game Over!!",width/2,height/2)
     }
 }
-
+//key press handle cases
 function keypress(event){
     if(!started){
         started=true;
