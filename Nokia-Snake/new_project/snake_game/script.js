@@ -37,7 +37,7 @@ function createFood(){
 }
 
 function clearBoard(){
-    context.fillStyle='#212121';
+    context.fillStyle='#212121FF';
     context.fillRect(0,0,width,height);
 }
 
