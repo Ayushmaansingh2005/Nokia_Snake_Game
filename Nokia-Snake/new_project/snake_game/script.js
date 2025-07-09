@@ -83,6 +83,7 @@ function nextTick(){
     nextTick();
     },200);
 }
+
     else{
         clearBoard();
         context.font="bold 50px serif";
