@@ -124,6 +124,8 @@ function keypress(event){
     }
 }
 
+
+//game over case
 function checkGameOver(){
     switch(true){
         case(snake[0].x<0):
