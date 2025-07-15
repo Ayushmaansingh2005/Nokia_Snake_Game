@@ -71,6 +71,7 @@ function moveSnake(){
         snake.pop();
     }
 }
+
 //function next trick
 function nextTick(){
     if (game){
