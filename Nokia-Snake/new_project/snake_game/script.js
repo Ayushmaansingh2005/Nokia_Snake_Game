@@ -72,8 +72,6 @@ function moveSnake(){
     }
 }
 
-
-
 //function next trick
 
 function nextTick(){
